@@ -10,13 +10,15 @@
 
 - Schematic & PCB:
 
-![circuit](./circuit.jpg)
+![circuit](./readme-img/circuit.jpg)
 
-![PCB](./PCB.png)
+<center>
+    ![PCB](./readme-img/PCB.png)
+</center>
 
 - Presentation
 
-| ![wave](./wave.gif)               | ![pulsometer1](./pulsometer1.png) |
-| --------------------------------- | --------------------------------- |
-| ![pulsometer2](./pulsometer2.png) | ![pulsometer3](./pulsometer3.png) |
+| ![wave](./readme-img/wave.gif)               | ![pulsometer1](./readme-img/pulsometer1.png) |
+| -------------------------------------------- | -------------------------------------------- |
+| ![pulsometer2](./readme-img/pulsometer2.png) | ![pulsometer3](./readme-img/pulsometer3.png) |
 
