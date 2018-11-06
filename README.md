@@ -12,7 +12,9 @@
 
 ![circuit](./readme-img/circuit.jpg)
 
-<div style="align: center"> <img src="./readme-img/PCB.png"/> </div>
+<div align="center">
+    <img src="./readme-img/PCB.png"/>
+</div>
 
 
 
